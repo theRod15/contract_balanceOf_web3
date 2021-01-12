@@ -1,0 +1,23 @@
+{
+  "name": "web3-contract-balanceOf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacesailor24/web3-contract-balanceOf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spacesailor24/web3-contract-balanceOf/issues"
+  },
+  "homepage": "https://github.com/spacesailor24/web3-contract-balanceOf#readme",
+  "dependencies": {
+    "web3": "^1.3.0"
+  }
+}
